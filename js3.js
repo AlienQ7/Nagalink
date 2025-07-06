@@ -62,10 +62,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Optional: Add a class to body to prevent scroll when menu/modal is open
-// Add this to your style.css as well
-/*
-body.no-scroll {
-    overflow: hidden;
-}
-*/
+
